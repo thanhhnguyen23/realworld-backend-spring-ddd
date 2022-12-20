@@ -10,3 +10,4 @@ target/
 *.ipr
 
 .DS_Store
+.vscode/
