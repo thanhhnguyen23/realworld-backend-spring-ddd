@@ -37,7 +37,7 @@ infrastructure/         -> technical details layer
 ### Some features of the project setup
 * [Checker framework](https://checkerframework.org) prevents null-pointer exceptions
 * Static code analysis with [Checkstyle](https://checkstyle.sourceforge.io), [PMD](https://pmd.github.io) and [Spotbugs](https://spotbugs.github.io) (see configs)
-* Automatic code formatting with [fmt-maven-plugin](https://github.com/coveooss/fmt-maven-plugin)
+* Automatic code formatting with [fmt-maven-plugin](https://github.com/spotify/fmt-maven-plugin)
 * Checkstyle is configured to check for adherence to [Google Style](https://google.github.io/styleguide/javaguide.html)
 
 # Getting started
